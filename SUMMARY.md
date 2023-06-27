@@ -19,7 +19,7 @@
 
 ## Online Payments
 
-* [Change customer bank statement reference](online-payments/change-customer-bank-statement-reference.md)
+* [Change your customer's bank statement reference](online-payments/change-your-customers-bank-statement-reference.md)
 * [Fix stripe payments disabled](online-payments/fix-stripe-payments-disabled.md)
 * [Fix stripe payouts disabled](online-payments/fix-stripe-payouts-disabled.md)
 
