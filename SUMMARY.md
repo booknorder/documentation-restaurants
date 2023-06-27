@@ -6,17 +6,16 @@
 
 * [Accessing your account](getting-started/accessing-your-account.md)
 * [Dashboard overview](getting-started/dashboard-overview.md)
-* [Order management](getting-started/order-management.md)
 * [Menu management](getting-started/menu-management.md)
-* [Automated order management](getting-started/automated-order-management.md)
+* [Order management](getting-started/order-management.md)
 
 ## How To Guides
 
-* [How to create a combo dish](how-to-guides/how-to-create-a-combo-dish.md)
-* [How to change opening hours for specific dates](how-to-guides/how-to-change-opening-hours-for-specific-dates.md)
-* [How to change your opening hours](how-to-guides/how-to-change-your-opening-hours.md)
-* [Setup dine-in ordering](how-to-guides/setup-dine-in-ordering.md)
+* [Create a combo dish](how-to-guides/create-a-combo-dish.md)
 * [How to make a specific service temporarily unavailable](how-to-guides/how-to-make-a-specific-service-temporarily-unavailable.md)
+* [Change opening hours for specific dates](how-to-guides/change-opening-hours-for-specific-dates.md)
+* [Change your opening hours](how-to-guides/change-your-opening-hours.md)
+* [Setup dine-in ordering](how-to-guides/setup-dine-in-ordering.md)
 
 ## Online Payments
 

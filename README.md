@@ -1,10 +1,10 @@
 ---
-description: Book N Order
+description: >-
+  Check out our helpful documentation and guides on how to get the most out of
+  the Book N Order platform.
 ---
 
 # Restaurant Documentation
-
-We've put together some helpful guides for you to get setup with our product quickly and easily.
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
