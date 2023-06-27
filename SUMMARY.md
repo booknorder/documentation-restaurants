@@ -1,24 +1,29 @@
 # Table of contents
 
-* [👋 Welcome to A Product](README.md)
+* [Restaurant Documentation](README.md)
 
-## Overview
+## Getting Started
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [Accessing your account](getting-started/accessing-your-account.md)
+* [Dashboard overview](getting-started/dashboard-overview.md)
+* [Order management](getting-started/order-management.md)
+* [Menu management](getting-started/menu-management.md)
+* [Automated order management](getting-started/automated-order-management.md)
 
-## Product Guides
+## How To Guides
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
+* [How to create a combo dish](how-to-guides/how-to-create-a-combo-dish.md)
+* [How to change opening hours for specific dates](how-to-guides/how-to-change-opening-hours-for-specific-dates.md)
+* [How to change your opening hours](how-to-guides/how-to-change-your-opening-hours.md)
+* [Setup dine-in ordering](how-to-guides/setup-dine-in-ordering.md)
+* [How to make a specific service temporarily unavailable](how-to-guides/how-to-make-a-specific-service-temporarily-unavailable.md)
 
-## Fundamentals
+## Online Payments
 
-* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
+* [Change customer bank statement reference](online-payments/change-customer-bank-statement-reference.md)
+* [Fix stripe payments disabled](online-payments/fix-stripe-payments-disabled.md)
+* [Fix stripe payouts disabled](online-payments/fix-stripe-payouts-disabled.md)
 
-## Use Cases
+## Troubleshooting
 
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥 For Developers](use-cases/for-developers.md)
+* [Why are audio notifications not working?](troubleshooting/why-are-audio-notifications-not-working.md)
