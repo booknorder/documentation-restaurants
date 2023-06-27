@@ -16,6 +16,7 @@
 * [Change opening hours for specific dates](how-to-guides/change-opening-hours-for-specific-dates.md)
 * [Change your opening hours](how-to-guides/change-your-opening-hours.md)
 * [Setup dine-in ordering](how-to-guides/setup-dine-in-ordering.md)
+* [How to view your reports](how-to-guides/how-to-view-your-reports.md)
 
 ## Online Payments
 
