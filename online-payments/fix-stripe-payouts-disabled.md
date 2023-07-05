@@ -1,10 +1,10 @@
-# Fix stripe payouts disabled
+# Fix Stripe payouts disabled
 
 Created by: Book N Order
 
 Modified on: Wed, 13 May, 2020 at 3:04 AM
 
-***
+
 
 If your Stripe payouts have been disabled, you will still be able to accept online payments. However, they will not pay out any money into your bank until your account is verified. You also risk your payments being disabled if you do not verify your account.
 
@@ -20,7 +20,7 @@ Once submitted, your account should be approved within 24 hours. Here are some h
 * Find your business information including your company certificate at the [NZ companies register](https://companies-register.companiesoffice.govt.nz/). Your company certificate is called "Certificate of Incorporation" on the companies register
 * Do not search or provide company information from non-government websites (.govt.nz)
 
-***
+
 
 Did you find it helpful? Yes No
 

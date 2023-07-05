@@ -9,7 +9,7 @@ description: >-
 1.  From the Menu setup page, **create a new dish** in the appropriate category\
 
 
-    <div align="left">
+    <div align="center">
 
     <figure><img src="https://s3-ap-southeast-2.amazonaws.com/aus-cdn.freshdesk.com/data/helpdesk/attachments/production/51004203235/original/n16XM2OuDp_rTLAzXElT9EXEe5P5LsMAkA.jpeg?1590940914" alt=""><figcaption></figcaption></figure>
 
